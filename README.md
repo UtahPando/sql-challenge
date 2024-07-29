@@ -1,4 +1,4 @@
-# SQL-challenge (Assignment 09)
+# SQL-Challenge (Assignment 09)
 ## Challenge to demonstrate mastery of SQL concepts and syntax
 ### Includes the following components:
 
